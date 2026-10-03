@@ -1,0 +1,24 @@
+{
+    "border": "pixel",
+    "current_border_width": 1,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 1023,
+       "width": 936,
+       "x": 29,
+       "y": 48
+    },
+    "marks": [],
+    "name": "Applying OWASP Web Security Testing Guide by Vandana Verma - 12 Jun - YouTube - Brave",
+    "percent": 1,
+    "swallows": [
+       {
+       "class": "^Brave\\-browser$",
+       "instance": "^brave\\-browser$",
+       "machine": "^gael$",
+       "title": "^Applying\\ OWASP\\ Web\\ Security\\ Testing\\ Guide\\ by\\ Vandana\\ Verma\\ \\-\\ 12\\ Jun\\ \\-\\ YouTube\\ \\-\\ Brave$",
+       "window_role": "^browser$"
+       }
+    ],
+    "type": "con"
+}

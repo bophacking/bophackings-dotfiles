@@ -1,0 +1,6 @@
+i3blocks= etc/i3blocks.conf
+i3status= etc/i3status.conf
+picom.conf= etc/xdg/picom.conf
+
+
+install i3, stow, picom, fastfetch, autotiling
